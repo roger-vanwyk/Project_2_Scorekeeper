@@ -2,5 +2,5 @@
 ### Implement an app to track scores between two teams within a game.
 The app keep scores for Cricket games. 
 
-https://i.ibb.co/JcrCkN9/project-2.gif
+https://ibb.co/grt6gGx
 
